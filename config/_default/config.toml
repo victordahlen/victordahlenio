@@ -34,3 +34,9 @@ theme= "anatole"
     weight = 500
     identifier = "contact"
     url = "/contact/"
+
+    [[menu.footer]]
+    name = "imprint"
+    weight = 1
+    identifier = "imprint"
+    url = "/imprint"
