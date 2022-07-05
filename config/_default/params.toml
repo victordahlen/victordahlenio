@@ -1,0 +1,24 @@
+title="Victor Dahlén"
+description="""This is my personal webpage where I post personal projects and other stuff.
+On the weekdays I work with data science and analytics at E.ON.
+Based in Malmö, Sweden
+"""
+profilePicture="images/profile.jpg"
+favicon="favicons/"
+
+## Social links
+# use 'fab' when brand icons, use 'fas' when standard solid icons.
+[[socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/victordahlen/"
+
+[[socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/victordahlen"
+
+[[socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:victor.dahlen@gmail.com"

@@ -1,0 +1,18 @@
+portfolioitems:
+  # Portfolio category
+  - title: Coding Projects
+    # Items within a category
+    portfolioitem:
+      - name: Fitness App Project
+        image: '/images/portfolio/fitness-image.jpg'
+        link: https://github.com/victordahlen/fitness_app_project/
+        description: 'A fitness application to track fitness progress such as weightlifting, weight and so on.'
+        tags:
+          - coding
+          - fitness
+        status: 'Active'
+        start: '2022'
+        end: ''
+        authors:
+          - Victor Dahlén
+          - Patrik Hagnell
