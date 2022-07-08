@@ -29,14 +29,11 @@ theme= "anatole"
     identifier = "about"
     url = "/about/"
 
-    [[menu.main]]
-    name = "Contact"
-    weight = 500
-    identifier = "contact"
-    url = "/contact/"
-
     [[menu.footer]]
     name = "imprint"
     weight = 1
     identifier = "imprint"
     url = "/imprint"
+
+[params]
+contentratio = 0.75
